@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 5px 20px;
+}
+#top-text{
+    color: #e50914;
+}
+#top-btn{
+    background-color: #e50914;
+}
